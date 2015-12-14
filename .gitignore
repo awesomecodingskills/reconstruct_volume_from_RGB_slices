@@ -1,1 +1,3 @@
 pattern_finder_gpu
+.cache
+.ipynb_checkpoints
